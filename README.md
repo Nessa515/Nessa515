@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-<img src="https://cdn3.vectorstock.com/i/1000x1000/78/57/react-icon-in-a-hexagon-vector-36587857.jpg" />
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" />
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" widith="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" widith="50px"/>
+<img src="https://cdn3.vectorstock.com/i/1000x1000/78/57/react-icon-in-a-hexagon-vector-36587857.jpg" widith="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" widith="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" widith="50px"/>
 
 <a href="https://www.instagram.com/nessa_oliveira_silva" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nessa_oliveira_silva">
