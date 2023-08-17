@@ -15,12 +15,18 @@
 </div>
 &nbsp;
 
-<a href="https://www.instagram.com/nessa_oliveira_silva" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nessa_oliveira_silva">
-</a>
+<div>
+  <a href="https://www.instagram.com/nessa_oliveira_silva" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nessa_oliveira_silva">
+  </a>
+</div>
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessa515&layout=compact)](https://github.com/Nessa515/github-readme-stats)
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessa515&layout=compact)](https://github.com/Nessa515/github-readme-stats)
+</div>
 &nbsp;
 
-![Snake animation](https://github.com/Nessa515/Nessa515/blob/output/github-contribution-grid-snake.svg)
+<div>
+  ![Snake animation](https://github.com/Nessa515/Nessa515/blob/output/github-contribution-grid-snake.svg)
+</div>
