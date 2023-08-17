@@ -1,4 +1,4 @@
-# Vanessa Oliveira da Silva 👋
+## Vanessa Oliveira da Silva 👋
 
 - Technologies
 
@@ -15,3 +15,12 @@
 </div>
 &nbsp;
 
+<a href="https://www.instagram.com/nessa_oliveira_silva" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nessa_oliveira_silva">
+</a>
+&nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessa515&layout=compact)](https://github.com/Nessa515/github-readme-stats)
+&nbsp;
+
+![Snake animation](https://github.com/Nessa515/Nessa515/blob/output/github-contribution-grid-snake.svg)
