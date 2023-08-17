@@ -23,7 +23,7 @@
 &nbsp;
 
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessa515&layout=compact)](https://github.com/Nessa515/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessa515&layout=compact)](https://github.com/Nessa515/github-readme-stats)
 </div>
 &nbsp;
 
