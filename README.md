@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" widith="50px"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" widith="50px"/>
-<img src="https://cdn3.vectorstock.com/i/1000x1000/78/57/react-icon-in-a-hexagon-vector-36587857.jpg" widith="50px"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" widith="50px"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" widith="50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg" widith="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg" widith="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg" widith="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg" widith="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg" widith="50px">
 
 <a href="https://www.instagram.com/nessa_oliveira_silva" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nessa_oliveira_silva">
