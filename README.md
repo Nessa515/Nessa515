@@ -20,11 +20,3 @@
 </div>
 &nbsp;
 
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessa515&layout=compact)](https://github.com/Nessa515/github-readme-stats)
-</div>
-&nbsp;
-
-<div>
-  ![Snake animation](https://github.com/Nessa515/Nessa515/blob/output/github-contribution-grid-snake.svg)
-</div>
