@@ -1,7 +1,7 @@
 ## Vanessa Oliveira da Silva 👋
 
 - Technologies
-- 
+  
 <div style="display: inline-block;"><br>
   <img align="center" alt="Alx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,4 +30,6 @@
   <a href="https://www.linkedin.com/in/vanessa-oliveira-da-silva-45b35b213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 &nbsp;
+
+![Snake animation](http://github.com/Nessa515/Nessa515/blob/output/github-contribution-grid-snake.svg)
 
