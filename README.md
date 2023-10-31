@@ -10,8 +10,6 @@
   <img align="center" alt="Alx-mysql" width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"  />
  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="40" alt="react logo" />
-
-  <img align="right" width="150px" height="150px" alt="Anime" src="https://66.media.tumblr.com/0df26e767b50dbf609a1175aefcedad2/tumblr_o6u9dqN30G1v43s0ho1_500.gif" />
 </div>
 &nbsp;
 
