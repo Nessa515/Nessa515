@@ -1,5 +1,11 @@
 # Vanessa Oliveira da Silva 💻
 
+- 👀 I'm interested in web development.
+-  ~ Free Time ~
+- 📺 Animes
+- 📚 Books
+- 🎮 Games
+
 <img align="center" alt="wallpaper/gif" width="900px" height="300px" src="https://windowscustomization.com/wp-content/uploads/2018/09/forest.gif" />
 
 ### Technologies
