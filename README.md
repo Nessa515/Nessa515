@@ -1,5 +1,7 @@
 ## Olá, me chamo Vanessa Oliveira da Silva 💻
 
+<img align="center" alt="wallpaper/gif" width="900px" height="300px" src="https://windowscustomization.com/wp-content/uploads/2018/09/forest.gif" />
+
 ### Technologies
   
 <div style="display: inline-block;"><br>
